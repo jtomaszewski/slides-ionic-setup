@@ -1,5 +1,6 @@
-# Ionic Poland #1 (01.06.2015)
-## Ionic Setup
+# Ionic Setup
+
+Presented on Ionic Poland #1 (01.06.2015)
 
 #### by Jacek Tomaszewski ([jtom.me](http://jtom.me))
 
