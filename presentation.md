@@ -7,6 +7,8 @@
 
 # driftyco/ionic-cli
 
+Sample app: https://github.com/jtomaszewski/ionicpoland-sampleapp-ionic-cli
+
 ---
 
 ## How to?
@@ -139,6 +141,8 @@ ionic plugin add \
 ---
 
 # jtomaszewski/ionic-cordova-gulp-seed
+
+Sample app: https://github.com/jtomaszewski/ionicpoland-sampleapp-jtom
 
 ---
 
